@@ -2,7 +2,8 @@
  * DriverPWM.h
  *
  *  Created on: 30.03.2018
- *      Author: Arek
+ *      Author: Arkadiusz Hallmann
+ *      e-mail: hallmann92@wp.pl
  */
 
 #ifndef PWM_DRIVERPWM_H_
